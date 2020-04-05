@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/intercom/static/css/main.6cd79601.chunk.css",
+    "main.js": "/intercom/static/js/main.2ff0dfce.chunk.js",
+    "main.js.map": "/intercom/static/js/main.2ff0dfce.chunk.js.map",
+    "runtime-main.js": "/intercom/static/js/runtime-main.0ce6bcb6.js",
+    "runtime-main.js.map": "/intercom/static/js/runtime-main.0ce6bcb6.js.map",
+    "static/css/2.ad8fe80d.chunk.css": "/intercom/static/css/2.ad8fe80d.chunk.css",
+    "static/js/2.b803f0ee.chunk.js": "/intercom/static/js/2.b803f0ee.chunk.js",
+    "static/js/2.b803f0ee.chunk.js.map": "/intercom/static/js/2.b803f0ee.chunk.js.map",
+    "index.html": "/intercom/index.html",
+    "precache-manifest.5f404d1713ece67daabc3aee5a8f3228.js": "/intercom/precache-manifest.5f404d1713ece67daabc3aee5a8f3228.js",
+    "service-worker.js": "/intercom/service-worker.js",
+    "static/css/2.ad8fe80d.chunk.css.map": "/intercom/static/css/2.ad8fe80d.chunk.css.map",
+    "static/css/main.6cd79601.chunk.css.map": "/intercom/static/css/main.6cd79601.chunk.css.map",
+    "static/js/2.b803f0ee.chunk.js.LICENSE.txt": "/intercom/static/js/2.b803f0ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ce6bcb6.js",
+    "static/css/2.ad8fe80d.chunk.css",
+    "static/js/2.b803f0ee.chunk.js",
+    "static/css/main.6cd79601.chunk.css",
+    "static/js/main.2ff0dfce.chunk.js"
+  ]
+}
