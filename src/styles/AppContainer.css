@@ -1,0 +1,20 @@
+#root, html, body {
+    height: 100%;
+}
+
+.app-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+.app-container__content {
+    padding-bottom: 40px;
+}
+
+.app-container__footer {
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+}
